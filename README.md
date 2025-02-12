@@ -1,26 +1,26 @@
 # Object-Recognition-PY
 
 
-### criar maquina virtual em python 
+### criar ambiente virtual em python 
 ```
-python3 -m venv .venv     //terminal 
+python3 -m venv .venv        //terminal 
 ```
 
 ### ativar o ambiente virtual 
 ```
 source .venv/bin/activate    //terminal
 
-which python    //verificar se foi ativado
+which python                 //verificar se foi ativado
 ```
 
 ### rodar programa
 ```
-python3 main.py
+python3 main.py              //terminal
 ```
 
 ### instalar bibliotecas 
 ```
-pip install ultralytics 
+pip install ultralytics      //terminal
 
-pip install opencv-python
+pip install opencv-python    //terminal
 ```
