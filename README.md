@@ -41,20 +41,22 @@ which python                 //verificar se foi ativado
 
 ### Verificar se o python esta rodando 
 ```
-    //Verifique a versão do python para ver se está instalado:
+    -> Verifique a versão do python para ver se está instalado:
 
     python3 --version   
     python --version
     py --version
 
+    -> Se ele não mostrar o numero da versão, provavelmente não está instalado corretamente
 
-    //se não estiver rodando procure o python com esses comandos no terminal:
+
+    -> Se não estiver rodando procure o python com esses comandos no terminal:
     
     cd /usr/bin         //entra no diretório de binarios
     ls                  //lista tudo dentro do diretório
     
-
-    //procure um binário escrito python
+    -> Procure um binário escrito python
+    
 
     -> Se o binário do python estiver na pasta, use ele exatamente como está escrito para comandos no terminal
     -> Se o binário não estiver na pasta, provavelmente o python não está instalado 
