@@ -39,7 +39,7 @@ which python                 //verificar se foi ativado
 # Configuração do Python
 </br>
 
-### Verificar se o python esta rodando 
+### Verificar se o python está rodando 
 ```
 (1) Verifique a versão do python para ver se está instalado:
 
