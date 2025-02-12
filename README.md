@@ -47,7 +47,7 @@ which python                 //verificar se foi ativado
     python --version
     py --version
 
-    Se ele não mostrar o numero da versão, está tudo certo
+    (Se ele mostrar o numero da versão, está tudo certo)
 
 
 (2) Se não estiver rodando procure o python com esses comandos no terminal:
