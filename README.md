@@ -1,5 +1,4 @@
 # Object-Recognition-PY
-</br>
 
 ### Instalar bibliotecas 
 ```
