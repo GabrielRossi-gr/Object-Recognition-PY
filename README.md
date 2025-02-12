@@ -15,6 +15,8 @@ which python                 //verificar se foi ativado
 ```
 </br>
 
+# Caso não queira criar um ambiente virtual apenas siga os passos abaixo
+
 ### Instalar bibliotecas 
 ```
 pip install ultralytics      
