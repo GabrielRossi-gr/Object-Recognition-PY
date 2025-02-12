@@ -1,4 +1,4 @@
-# Object-Recognition-PY
+# Object Recognition in Python
 
 ### Instalar bibliotecas 
 ```
