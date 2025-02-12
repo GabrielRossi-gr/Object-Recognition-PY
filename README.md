@@ -50,6 +50,7 @@ which python                 //verificar se foi ativado
     (Se ele mostrar o número da versão, está tudo certo)
 
 
+
 (2) Se não estiver rodando procure o python com esses comandos no terminal:
     
     cd /usr/bin         //entra no diretório de binarios
