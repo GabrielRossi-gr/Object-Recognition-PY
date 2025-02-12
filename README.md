@@ -20,6 +20,8 @@ python3 main.py
 ```
 python3 -m venv .venv        //terminal 
 ```
+</br>
+
 ### Ativar o ambiente virtual 
 ```
 source .venv/bin/activate    //ativar ambiente virtual
