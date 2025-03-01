@@ -3,9 +3,9 @@
 
 ### Instalar bibliotecas 
 ```
-pip install ultralytics      
+pip3 install ultralytics      
 
-pip install opencv-python    
+pip3 install opencv-python    
 ```
 
 ### Rodar programa
